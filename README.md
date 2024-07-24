@@ -1,6 +1,6 @@
 # todo-list-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+https://github.com/user-attachments/assets/2b769388-8690-47b9-844b-058f3360ac2f
 
 ## Recommended IDE Setup
 
